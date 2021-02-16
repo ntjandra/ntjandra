@@ -5,8 +5,7 @@
 and a researcher for the Center of Research in Open Source Software (CROSS) at UCSC.
 - 🌱 I’m currently learning Full-Stack Development, Docker, and Project Management Skills.
 - 👯 I love to collaborate in a small Agile enviornment that is user-focused.
-- 🤔 I’m looking for help with app deployment, using Nginx and Gunicorn.
-- 💬 Ask me about the weather: It's been very hot lately. ☀️
+- 🤔 I’m looking for help with app deployment and database caching.
 - 📫 How to reach me: Email prefered
 - 😄 Pronouns: Him/He/His
 - ⚡ Fun fact: I took a break from Facebook back in 2010 and haven't touched it since.
