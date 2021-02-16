@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Nathaniel, a recent alumni from UCSC actively searching for a full-time position.
+## I'm Nathaniel, a graduate with a Bachelor of Science in Computer Science from UCSC, who is actively searching for a full-time position as a Software Engineer.
 - 🔭 I’m currently working on as an R&D Software Engineer for the Renewable and Resilient Electrical Energy Systems (RREES) Lab 
 and a researcher for the Center of Research in Open Source Software (CROSS) at UCSC.
 - 🌱 I’m currently learning Full-Stack Development, Docker, and Project Management Skills.
