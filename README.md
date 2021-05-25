@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-## I'm Nathaniel, a graduate with a Bachelor of Science in Computer Science from UCSC, who is actively searching for a full-time position as a Software Engineer.
-- 🔭 I’m currently working on as an R&D Software Engineer for the Renewable and Resilient Electrical Energy Systems (RREES) Lab 
-and a researcher for the Center of Research in Open Source Software (CROSS) at UCSC.
+## I'm Nathaniel, a graduate with a Bachelor of Science in Computer Science from California, who is actively searching for a full-time position as a Software Engineer.
+I’m currently working as an R&D Software Engineer for the Renewable and Resilient Electrical Energy Systems (RREES) Lab.
+- 🔭 Our projects focus on Outage Detection and Microgrid Monitoring, as a preventative measure to reduce the impact of wildfires.
 - 🌱 I’m currently learning Full-Stack Development, Docker, and Project Management Skills.
-- 👯 I love to collaborate in a small Agile enviornment that is user-focused.
-- 🤔 I’m looking for help with app deployment and database caching.
-- 📫 How to reach me: Email prefered
+- 👯 I love to collaborate in an Agile environment that is user-focused, kind, and self-sustaining.
+- 📫 How to reach me: Email prefered at tjandranathaniel@gmail.com
 - 😄 Pronouns: Him/He/His
 - ⚡ Fun fact: I took a break from Facebook back in 2010 and haven't touched it since.
 
+I previously interned as a Database Researcher at the Center of Research in Open Source Software (CROSS) focusing on in-memory datastores and partioning records.
 <!--
 **ntjandra/ntjandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+<!-- - 🤔 I’m looking for help with app deployment and database caching-->
