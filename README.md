@@ -5,7 +5,7 @@ I’m currently working as an R&D Software Engineer for the Renewable and Resili
 - 🔭 Our projects focus on Outage Detection and Microgrid Monitoring, as a preventative measure to reduce the impact of wildfires.
 - 🌱 I’m currently learning Full-Stack Development, Docker, and Project Management Skills.
 - 👯 I love to collaborate in an Agile environment that is user-focused, kind, and self-sustaining.
-- 📫 How to reach me: Email prefered at tjandranathaniel@gmail.com
+- 📫 How to reach me: By email at tjandranathaniel@gmail.com
 - 😄 Pronouns: Him/He/His
 - ⚡ Fun fact: I took a break from Facebook back in 2010 and haven't touched it since.
 
