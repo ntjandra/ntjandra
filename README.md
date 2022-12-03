@@ -1,28 +1,16 @@
 ### Hi there 👋
 
-## I'm Nathaniel, a technical writer with a Bachelor of Science in Computer Science living in California.
-- 🕰️ Before I was a technical writer, I worked for 2 years of experience as a Software Engineer focusing on building applications as part of Research & Development.
-- 🔭 I've done projects ranging across all parts of the stack, but am particularly fond of working on the Backend.
-- 🌱 I’m always trying to improve on Full-Stack Development, and Project Management Skills. 
-- 💖 I've got a passion for writing, coding, and team based tabletop games!
-- 🏭 My current work at a startup in the A.I industry, where I create content to help developers learn more about AI.
-- 👯 I love to collaborate in an Agile environment that is user-focused, kind, and self-sustaining.
-- 📫 How to reach me: By email at tjandranathaniel@gmail.com
+## I'm Nathaniel, a Technical Writer from California.
+- 🕰️ I've held many other titles from ranging from Full-Stack Engineer, Research Intern, Chemistry Tutor, and Librarian.
+- 🔭 I've done projects ranging across all parts of engineering, marketing, sales, as part of a Growth team.
+- ☁️ I dream of working as a Developer Advocate. I enjoy creating content and interacting with users.
+- 🌱 I’m always learning about AI, SEO, and career growth. I share more about my learnings on my Github Personal Website. 
+- 💖 I've got a passion for writing, coding, and tabletop games! Currently, I'm creating a new RPG system focused on storytelling.
+- 🏭 At work, I create mechanisms to boost metrics, by creating narratives, proposals, and code.
+- 👯 I love to collaborate on long-term big risk projects. I grow best in user-focused, kind, yet self-sustaining team.
+- 📫 Reach me by email at tjandranathaniel@gmail.com to have a chat. Inbox is always open, but please no robots.
+- ⚡ Fun fact: I took a break from Facebook back in 2010 and proud thar I haven't touched it since then.
 - 😄 Pronouns: Him/He/His
-- ⚡ Fun fact: I took a break from Facebook back in 2010 and haven't touched it since.
 
-<!--
-**ntjandra/ntjandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-I previously interned as a Database Researcher at the Center of Research in Open Source Software (CROSS) focusing on in-memory datastores and partioning records.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<!-- - 🤔 I’m looking for help with app deployment and database caching-->
+### Favorite Quote
+"Curiosity killed the cat, but satisfaction brought it back"
